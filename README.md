@@ -6,7 +6,7 @@
         <b>(a) Rotation Sensitivity</b>
       </td>
       <td align="center">
-        <img src="translation_accuracy_sweep_plot_new.png" width="400px" /><br>
+        <img src="figures/translation_accuracy_sweep_plot_new.png" width="400px" /><br>
         <b>(b) Translation Sensitivity</b>
       </td>
     </tr>
